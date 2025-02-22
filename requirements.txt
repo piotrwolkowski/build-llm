@@ -2,3 +2,4 @@ tiktoken
 numpy
 torch
 transformers
+matplotlib
