@@ -3,3 +3,5 @@ numpy
 torch
 transformers
 matplotlib
+tensorflow>=2.15.0
+tqdm>=4.66
